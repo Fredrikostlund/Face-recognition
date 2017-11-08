@@ -1,0 +1,17 @@
+#Result of image recognition test
+#Authors: Martin Sjölund (id15msd), Fredrik Östlund (id15fod)
+Image1 2
+Image2 1
+Image3 4
+Image4 4
+Image5 1
+Image6 4
+Image7 4
+Image8 4
+Image9 2
+Image10 3
+Image11 4
+Image12 4
+Image13 3
+Image14 2
+Image15 3
